@@ -7,4 +7,10 @@
 - 📫 How to reach me: https://www.linkedin.com/in/flavio-eduardo-dias-da-silva/
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flavioeds82&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flavioeds82&layout=compact)](https://github.com/Flavioeds82/github-readme-stats)
+<a href="https://github.com/Flavioeds82/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Flavioeds82&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Flavioeds82/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Flavioeds82&repo=convoychat" />
+</a>
 ##
