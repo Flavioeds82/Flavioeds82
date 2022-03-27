@@ -8,10 +8,10 @@
 ##
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Flavioeds82&show_icons=true&theme=dracula" />
+  <img height = 180em align="center" src="https://github-readme-stats.vercel.app/api?username=Flavioeds82&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavioeds82&layout=compact&langs_count=16&theme=dracula" />
+  <img height = 180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavioeds82&layout=compact&langs_count=16&theme=dracula" />
 </a>
 </div>  
 ##
