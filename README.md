@@ -1,16 +1,12 @@
-### Hi there 👋
+### Olá, eu sou Flávio Eduardo programador formado pela UFF/CEDERJ. 👋
 
-<!--
-**Flavioeds82/Flavioeds82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Movimentação de Cargas.
+- 🌱 I’m currently learning Programação Front-End, Back-end and Full-Stack.
+- 👯 I’m looking to collaborate on projects that expand my knowledge.
+- 🤔 I’m looking for help with entering the job market as a dev.
+- 📫 How to reach me: https://www.linkedin.com/in/flavio-eduardo-dias-da-silva/
+##
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flavioeds82)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flavioeds82&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+##
