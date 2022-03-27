@@ -7,6 +7,4 @@
 - 📫 How to reach me: https://www.linkedin.com/in/flavio-eduardo-dias-da-silva/
 ##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flavioeds82)](https://github.com/anuraghazra/github-readme-stats);![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flavioeds82&hide=contribs,prs)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark);![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 ##
