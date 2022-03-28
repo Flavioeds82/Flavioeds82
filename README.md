@@ -7,7 +7,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/flavio-eduardo-dias-da-silva/
 ##
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Flavioeds82/github-readme-stats">
   <img height = 180em align="center" src="https://github-readme-stats.vercel.app/api?username=Flavioeds82&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
