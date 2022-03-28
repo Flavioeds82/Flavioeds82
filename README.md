@@ -24,3 +24,9 @@
   <img align="center" alt="icone_java" height= 30 width= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
 
+##
+<div>
+<ahref = "https://www.linkedin.com/in/flavio-eduardo-dias-da-silva/" target="__black"> <img height= 30 width= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<ahref = "https://www.facebook.com/FlavioEduardoDiasdaSilva" target="__black"> <img height= 30 width= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>
+<ahref = "https://twitter.com/Flavioeds" target="__black"> <img height= 30 width= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a>
+</div>          
