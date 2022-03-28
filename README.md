@@ -8,10 +8,10 @@
 ##
 <div style = "display: inline_block">
   <a href="https://github.com/Flavioeds82/github-readme-stats">
-  <img height = 180em width= 500px align="center" src="https://github-readme-stats.vercel.app/api?username=Flavioeds82&show_icons=true&theme=dracula" />
+  <img height = 180em width= 450px align="center" src="https://github-readme-stats.vercel.app/api?username=Flavioeds82&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height = 180em width= 500px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavioeds82&layout=compact&langs_count=16&theme=dracula" />
+  <img height = 180em width= 450px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavioeds82&layout=compact&langs_count=16&theme=dracula" />
 </a>
 </div>  
 
