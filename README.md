@@ -14,11 +14,13 @@
   <img height = 180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavioeds82&layout=compact&langs_count=16&theme=dracula" />
 </a>
 </div>  
-##
-<div style = "display: inline_block" ><br>  
-  <img align="center" alt="icone_hmtl5" height= 30 width= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-  <img align="center" alt="icone_css3" height= 30 width= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-  <img align="center" alt="icone_javascript" height= 30 width= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-  <img align="center" alt="icone_python" height= 30 width= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"           
-<div>
-##
+
+<div style = "display: inline_block" align="center"  ><br>  
+  <img align="center" alt="icone_hmtl5" height= 30 width= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="icone_css3" height= 30 width= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img align="center" alt="icone_javascript" height= 30 width= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="icone_python" height= 30 width= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img align="center" alt="icone_php" height= 30 width= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img align="center" alt="icone_java" height= 30 width= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</div>
+
