@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with entering the job market as a dev.
 - 📫 How to reach me: https://www.linkedin.com/in/flavio-eduardo-dias-da-silva/
 ##
-<div>
+<div style = "display: inline_block">
   <a href="https://github.com/Flavioeds82/github-readme-stats">
   <img height = 180em align="center" src="https://github-readme-stats.vercel.app/api?username=Flavioeds82&show_icons=true&theme=dracula" />
 </a>
