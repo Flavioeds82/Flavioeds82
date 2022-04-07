@@ -1,6 +1,6 @@
 ### Olá, eu sou Flávio Eduardo programador formado pela UFF/CEDERJ. 👋
 
-- 🔭 I’m currently working on Movimentação de Cargas.
+- 🔭 I’m currently working on cranes handling operator.
 - 🌱 I’m currently learning Programação Front-End, Back-end and Full-Stack.
 - 👯 I’m looking to collaborate on projects that expand my knowledge.
 - 🤔 I’m looking for help with entering the job market as a dev.
