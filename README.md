@@ -1,4 +1,4 @@
-### ![uff_brasao 50x56](https://user-images.githubusercontent.com/61715849/163367101-ee953a45-366b-4150-9610-e02af52f561a.png) Formado em Sistemas de Computação pela UFF. 
+### ![uff_brasao 50x56](https://user-images.githubusercontent.com/61715849/163367101-ee953a45-366b-4150-9610-e02af52f561a.png) Graduated in Computer Systems from Universidade Federal Fluminense. 
 
 
 - 🔭 I’m currently working on cranes handling operator.
