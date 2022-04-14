@@ -1,4 +1,5 @@
-### Olá, eu sou Flávio Eduardo programador formado pela UFF/CEDERJ. 👋
+### ![uff_brasao 50x56](https://user-images.githubusercontent.com/61715849/163367101-ee953a45-366b-4150-9610-e02af52f561a.png) Formado em Tecnólogo em Sistemas de Computação pela UFF. 
+
 
 - 🔭 I’m currently working on cranes handling operator.
 - 🌱 I’m currently learning Programação Front-End, Back-end and Full-Stack.
@@ -6,6 +7,7 @@
 - 🤔 I’m looking for help with entering the job market as a dev.
 - 📫 How to reach me: https://www.linkedin.com/in/flavio-eduardo-dias-da-silva/
 ##
+
 <div style = "display: inline_block">
   <a href="https://github.com/Flavioeds82/github-readme-stats">
   <img height = 180em width= 400px align="center" src="https://github-readme-stats.vercel.app/api?username=Flavioeds82&show_icons=true&theme=dracula" />
