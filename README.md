@@ -1,7 +1,5 @@
 ### ![uff_brasao 50x56](https://user-images.githubusercontent.com/61715849/163367101-ee953a45-366b-4150-9610-e02af52f561a.png) Graduated in Computer Systems from Universidade Federal Fluminense. 
 
-
-- 🔭 I’m currently working on cranes handling operator.
 - 🌱 I’m currently learning Programação Front-End, Back-end and Full-Stack.
 - 👯 I’m looking to collaborate on projects that expand my knowledge.
 - 🤔 I’m looking for help with entering the job market as a dev.
