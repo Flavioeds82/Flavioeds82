@@ -1,9 +1,5 @@
-### ![uff_brasao 50x56](https://user-images.githubusercontent.com/61715849/163367101-ee953a45-366b-4150-9610-e02af52f561a.png) Graduated in Computer Systems from Universidade Federal Fluminense. 
-
-- 🌱 I’m currently learning Programação Front-End, Back-end and Full-Stack.
-- 👯 I’m looking to collaborate on projects that expand my knowledge.
-- 🤔 I’m looking for help with entering the job market as a dev.
-- 📫 How to reach me: https://www.linkedin.com/in/flavio-eduardo-dias-da-silva/
+### ![uff_brasao 50x56](https://user-images.githubusercontent.com/61715849/163367101-ee953a45-366b-4150-9610-e02af52f561a.png) Programador Front-end formado em Sistemas de Computação pela UFF/CEDERJ.
+Saiba mais: https://www.linkedin.com/in/flavio-eduardo-dias-da-silva/
 ##
 
 <div style = "display: inline_block">
